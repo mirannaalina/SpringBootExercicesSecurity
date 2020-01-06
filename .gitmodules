@@ -1,0 +1,3 @@
+[submodule "SpringBootExercicesSecurity"]
+	path = SpringBootExercicesSecurity
+	url = https://github.com/mirannaalina/SpringBootExercicesSecurity.git

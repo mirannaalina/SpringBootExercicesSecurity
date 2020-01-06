@@ -1,0 +1,3 @@
+1. UserService = (care implementeaza UserDetailsService)  = logica de conversie de la formatul nostru DB la formatul pe care-l vrea Spring
+2. MyUser= implementare pentru formatul pe care-l vrea spring ( implementeaza UserDetails)
+3. SecurityConfig = psnem care logica de conversie sa fie folosita.
